@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/poxme-demo/static/css/main.b1b8a10a.css",
+    "main.js": "/poxme-demo/static/js/main.be3d65a1.js",
+    "static/media/Email.jpg": "/poxme-demo/static/media/Email.42803f34666982c45a12.jpg",
+    "index.html": "/poxme-demo/index.html",
+    "main.b1b8a10a.css.map": "/poxme-demo/static/css/main.b1b8a10a.css.map",
+    "main.be3d65a1.js.map": "/poxme-demo/static/js/main.be3d65a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b8a10a.css",
+    "static/js/main.be3d65a1.js"
+  ]
+}
